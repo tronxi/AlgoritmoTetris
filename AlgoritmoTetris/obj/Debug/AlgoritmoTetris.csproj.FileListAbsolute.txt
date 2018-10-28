@@ -1,0 +1,7 @@
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\bin\Debug\AlgoritmoTetris.exe.config
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\bin\Debug\AlgoritmoTetris.exe
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\bin\Debug\AlgoritmoTetris.pdb
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\obj\Debug\AlgoritmoTetris.csprojAssemblyReference.cache
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\obj\Debug\AlgoritmoTetris.csproj.CoreCompileInputs.cache
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\obj\Debug\AlgoritmoTetris.exe
+C:\programas\c#\AlgoritmoTetris\AlgoritmoTetris\AlgoritmoTetris\obj\Debug\AlgoritmoTetris.pdb
